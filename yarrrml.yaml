@@ -1,0 +1,60 @@
+prefixes:
+  ex: http://www.example.com/changesets/
+  e: http://myontology.com/
+  dbo: http://dbpedia.org/ontology/
+  grel: http://users.ugent.be/~bjdmeest/function/grel.ttl#
+
+mappings:
+  person:
+    sources:
+      - ['data.json~jsonpath', '$.data[*]']
+    s: ex:$(id)
+    po: 
+      - p: ex:isType
+        o: $(type)
+
+      - p: ex:hasID
+        o: $(id)
+      
+      - p: ex:createdAt
+        o: $(created_at)
+        
+      - p: ex:closedAt
+        o: $(closed_at)
+     
+      - p: ex:isOpen
+        o: $(open)
+        
+      - p: ex:numberOfChanges
+        o: $(num_changes)
+        
+      - p: ex:userName
+        o: $(user)
+        
+      - p: ex:hasUID
+        o: $(uid)
+      
+      - p: ex:minLon
+        o: $(min_lon)
+        
+      - p: ex:minLat
+        o: $(min_lat)
+        
+      - p: ex:maxLon
+        o: $(max_lon)
+        
+      - p: ex:maxLat
+        o: $(max_lat)
+        
+      - p: ex:tagKey
+        o: $(tagkey)
+        
+      - p: ex:tagValue
+        o: $(tagvalue)
+
+     
+         
+       
+    
+        
+        

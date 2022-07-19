@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="replicate_changesets.rb" copyright="OpenStreetMap and contributors" attribution="https://www.openstreetmap.org/copyright" license="https://opendatacommons.org/licenses/odbl/1-0/">
+  <changeset id="123589955" created_at="2022-07-14T05:33:50Z" closed_at="2022-07-14T07:25:13Z" open="false" num_changes="27" user="Helge Kreutzmannn" uid="8353937" min_lat="51.8162591" max_lat="51.8262816" min_lon="3.91419" max_lon="3.9347082" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddBuildingType"/>
+    <tag k="locale" v="de-DE"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add building types"/>
+  </changeset>
+  <changeset id="123590068" created_at="2022-07-14T05:37:19Z" closed_at="2022-07-14T07:25:13Z" open="false" num_changes="20" user="Helge Kreutzmannn" uid="8353937" min_lat="51.8122732" max_lat="51.8266722" min_lon="3.9212398" max_lon="3.9368634" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddLanes"/>
+    <tag k="locale" v="de-DE"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add road lanes"/>
+  </changeset>
+  <changeset id="123590073" created_at="2022-07-14T05:37:25Z" closed_at="2022-07-14T07:25:13Z" open="false" num_changes="24" user="Helge Kreutzmannn" uid="8353937" min_lat="51.8142293" max_lat="51.8285776" min_lon="3.9212398" max_lon="3.9347815" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddWayLit"/>
+    <tag k="locale" v="de-DE"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add whether way is lit"/>
+  </changeset>
+  <changeset id="123590181" created_at="2022-07-14T05:40:18Z" closed_at="2022-07-14T07:25:13Z" open="false" num_changes="18" user="Helge Kreutzmannn" uid="8353937" min_lat="51.8139519" max_lat="51.8269635" min_lon="3.9227139" max_lon="3.9352447" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddSidewalk"/>
+    <tag k="locale" v="de-DE"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add whether there are sidewalks"/>
+  </changeset>
+  <changeset id="123590342" created_at="2022-07-14T05:45:02Z" closed_at="2022-07-14T07:25:14Z" open="false" num_changes="10" user="Helge Kreutzmannn" uid="8353937" min_lat="51.8144734" max_lat="51.8272057" min_lon="3.9268646" max_lon="3.934727" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddRoadSurface"/>
+    <tag k="locale" v="de-DE"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add road surface info"/>
+  </changeset>
+  <changeset id="123590406" created_at="2022-07-14T05:47:12Z" closed_at="2022-07-14T07:25:14Z" open="false" num_changes="45" user="Helge Kreutzmannn" uid="8353937" min_lat="51.8140083" max_lat="51.8258239" min_lon="3.926527" max_lon="3.9350895" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddBuildingLevels"/>
+    <tag k="locale" v="de-DE"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add building and roof levels"/>
+  </changeset>
+  <changeset id="123590409" created_at="2022-07-14T05:47:18Z" closed_at="2022-07-14T07:25:14Z" open="false" num_changes="45" user="Helge Kreutzmannn" uid="8353937" min_lat="51.8140083" max_lat="51.8258239" min_lon="3.926527" max_lon="3.9350895" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddRoofShape"/>
+    <tag k="locale" v="de-DE"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add roof shapes"/>
+  </changeset>
+  <changeset id="123590459" created_at="2022-07-14T05:49:09Z" closed_at="2022-07-14T07:25:14Z" open="false" num_changes="7" user="Helge Kreutzmannn" uid="8353937" min_lat="51.8122732" max_lat="51.8266393" min_lon="3.9281498" max_lon="3.9368634" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddCycleway"/>
+    <tag k="locale" v="de-DE"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add whether there are cycleways"/>
+  </changeset>
+  <changeset id="123590607" created_at="2022-07-14T05:53:23Z" closed_at="2022-07-14T07:25:14Z" open="false" num_changes="3" user="Helge Kreutzmannn" uid="8353937" min_lat="51.8142293" max_lat="51.8265989" min_lon="3.9280202" max_lon="3.9340436" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddPathSurface"/>
+    <tag k="locale" v="de-DE"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add path surfaces"/>
+  </changeset>
+  <changeset id="123591674" created_at="2022-07-14T06:24:24Z" closed_at="2022-07-14T07:24:25Z" open="false" num_changes="1" user="Herco Van Hooff" uid="10207114" min_lat="-37.8676602" max_lat="-37.8676602" min_lon="144.9742113" max_lon="144.9742113" comments_count="0">
+    <tag k="created_by" v="MAPS.ME ios 14.0.1"/>
+    <tag k="comment" v="Created a bar"/>
+    <tag k="bundle_id" v="com.mapswithme.full"/>
+  </changeset>
+  <changeset id="123592410" created_at="2022-07-14T06:44:01Z" closed_at="2022-07-14T07:25:15Z" open="false" num_changes="1" user="Helge Kreutzmannn" uid="8353937" min_lat="51.812822" max_lat="51.81293" min_lon="3.9364444" max_lon="3.9365579" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddBikeParkingCapacity"/>
+    <tag k="locale" v="de-DE"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add bicycle parking capacities"/>
+  </changeset>
+  <changeset id="123592907" created_at="2022-07-14T06:56:54Z" closed_at="2022-07-14T07:25:15Z" open="false" num_changes="1" user="Helge Kreutzmannn" uid="8353937" min_lat="51.8121331" max_lat="51.8121331" min_lon="3.9366456" max_lon="3.9366456" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddCrossingIsland"/>
+    <tag k="locale" v="de-DE"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add whether pedestrian crossing has an island"/>
+  </changeset>
+  <changeset id="123593031" created_at="2022-07-14T07:00:19Z" closed_at="2022-07-14T07:25:15Z" open="false" num_changes="1" user="Helge Kreutzmannn" uid="8353937" min_lat="51.8095672" max_lat="51.8095672" min_lon="3.9353311" max_lon="3.9353311" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddOpeningHours"/>
+    <tag k="locale" v="de-DE"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add opening hours"/>
+  </changeset>
+  <changeset id="123593048" created_at="2022-07-14T07:00:45Z" closed_at="2022-07-14T07:25:15Z" open="false" num_changes="1" user="Helge Kreutzmannn" uid="8353937" min_lat="51.8095672" max_lat="51.8095672" min_lon="3.9353311" max_lon="3.9353311" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddPlaceName"/>
+    <tag k="locale" v="de-DE"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Determine place names"/>
+  </changeset>
+  <changeset id="123593898" created_at="2022-07-14T07:24:24Z" closed_at="2022-07-14T07:24:25Z" open="false" num_changes="30" user="jslawin" uid="8477764" min_lat="52.8103677" max_lat="52.8112083" min_lon="18.1252035" max_lon="18.127008" comments_count="0">
+    <tag k="created_by" v="JOSM/1.5 (18513 pl)"/>
+    <tag k="comment" v="zabudowa mieszkalna"/>
+  </changeset>
+  <changeset id="123593899" created_at="2022-07-14T07:24:25Z" closed_at="2022-07-14T07:24:25Z" open="false" num_changes="2" user="begumsax" uid="14018933" min_lat="36.5122839" max_lat="36.5128041" min_lon="-82.2788509" max_lon="-82.2782035" comments_count="0">
+    <tag k="changesets_count" v="1159"/>
+    <tag k="hashtags" v="#amap"/>
+    <tag k="imagery_used" v="Mapbox Satellite;Bing Streetside;Mapillary Images;KartaView Images"/>
+    <tag k="source" v="streetlevel imagery"/>
+    <tag k="locale" v="en"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="Added Road Directions #amap"/>
+  </changeset>
+  <changeset id="123593900" created_at="2022-07-14T07:24:26Z" closed_at="2022-07-14T07:24:27Z" open="false" num_changes="8" user="Jebel_Hafeet" uid="14728681" min_lat="33.9435503" max_lat="33.943845" min_lon="-118.2157592" max_lon="-118.215552" comments_count="0">
+    <tag k="source" v="Bing Aerial Imagery"/>
+    <tag k="hashtags" v="#tomtom"/>
+    <tag k="created_by" v="JOSM/1.5 (18463 en)"/>
+    <tag k="comment" v="Smoothened the sharp edges of the primary_link #tomtom"/>
+  </changeset>
+  <changeset id="123593901" created_at="2022-07-14T07:24:28Z" closed_at="2022-07-14T07:24:29Z" open="false" num_changes="2" user="TsheringDema" uid="16530362" min_lat="27.4245823" max_lat="27.42531" min_lon="89.6523735" max_lon="89.6530597" comments_count="0">
+    <tag k="changesets_count" v="70"/>
+    <tag k="imagery_used" v="Bing Maps Aerial"/>
+    <tag k="locale" v="en"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="New City Addressing System for Thimphu Thromde"/>
+  </changeset>
+  <changeset id="123593902" created_at="2022-07-14T07:24:29Z" closed_at="2022-07-14T07:24:30Z" open="false" num_changes="75" user="VLD132" uid="9345987" min_lat="28.8454695" max_lat="28.8598023" min_lon="76.9154222" max_lon="76.9346702" comments_count="0">
+    <tag k="changesets_count" v="12398"/>
+    <tag k="hashtags" v="#mapwithai;#India"/>
+    <tag k="imagery_used" v="Maxar Premium Imagery;.gpx data file"/>
+    <tag k="locale" v="en"/>
+    <tag k="host" v="https://tasks.mapwith.ai/projects/70/map/"/>
+    <tag k="created_by" v="RapiD 1.1.8"/>
+    <tag k="comment" v="#mapwithai #India Created Residential Roads"/>
+  </changeset>
+  <changeset id="123593903" created_at="2022-07-14T07:24:29Z" closed_at="2022-07-14T07:24:32Z" open="false" num_changes="35" user="Mushashu" uid="6249908" min_lat="-14.3076191" max_lat="-14.3070761" min_lon="29.1249316" max_lon="29.1337587" comments_count="0">
+    <tag k="source" v="Maxar Premium Imagery; Maxar-Premium"/>
+    <tag k="hashtags" v="#hotosm-project-10156;#liga-zambia"/>
+    <tag k="created_by" v="JOSM/1.5 (18463 en)"/>
+    <tag k="comment" v="#hotosm-project-10156   #liga-zambia"/>
+  </changeset>
+  <changeset id="123593904" created_at="2022-07-14T07:24:35Z" closed_at="2022-07-14T07:24:35Z" open="false" num_changes="8" user="Cyri" uid="15582836" min_lat="48.1827954" max_lat="48.1842551" min_lon="11.4036304" max_lon="11.4056176" comments_count="0">
+    <tag k="changesets_count" v="6"/>
+    <tag k="ideditor:walkthrough_started" v="yes"/>
+    <tag k="ideditor:walkthrough_progress" v="welcome"/>
+    <tag k="imagery_used" v="Bavaria (80 cm)"/>
+    <tag k="locale" v="de"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="Spielplatz, Bänke, Kreutz und Sitzbank hinzugefügt"/>
+  </changeset>
+  <changeset id="123593905" created_at="2022-07-14T07:24:36Z" closed_at="2022-07-14T07:24:36Z" open="false" num_changes="14" user="natus86" uid="28130" min_lat="49.7879826" max_lat="49.7889837" min_lon="9.9667501" max_lon="9.9682326" comments_count="0">
+    <tag k="changesets_count" v="59"/>
+    <tag k="imagery_used" v="Bavaria (80 cm)"/>
+    <tag k="locale" v="en"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="add two construction areas in Landsteiner Str."/>
+  </changeset>
+  <changeset id="123593906" created_at="2022-07-14T07:24:36Z" closed_at="2022-07-14T07:24:38Z" open="false" num_changes="10" user="Sara Tancredi" uid="13701193" min_lat="-21.9598565" max_lat="-21.9597795" min_lon="47.832003" max_lon="47.8320731" comments_count="0">
+    <tag k="source" v="Maxar Premium Imagery"/>
+    <tag k="created_by" v="JOSM/1.5 (17919 fr)"/>
+    <tag k="comment" v="Rectification doublon"/>
+  </changeset>
+  <changeset id="123593907" created_at="2022-07-14T07:24:36Z" closed_at="2022-07-14T07:24:38Z" open="false" num_changes="14" user="Snehit_Tadepalli" uid="12241787" min_lat="37.7654229" max_lat="37.7674076" min_lon="29.0361219" max_lon="29.0558957" comments_count="0">
+    <tag k="source" v="Maxar Premium Imagery"/>
+    <tag k="hashtags" v="#MSFTOpenMaps"/>
+    <tag k="created_by" v="JOSM/1.5 (18513 en)"/>
+    <tag k="comment" v="Fixing keepright overlapping highways #MSFTOpenMaps"/>
+  </changeset>
+  <changeset id="123593908" created_at="2022-07-14T07:24:38Z" closed_at="2022-07-14T07:24:39Z" open="false" num_changes="34" user="Mangobonbon" uid="10115287" min_lat="51.5289061" max_lat="51.5377864" min_lon="9.8797165" max_lon="9.9049128" comments_count="0">
+    <tag k="changesets_count" v="5483"/>
+    <tag k="imagery_used" v="Bing Maps Aerial"/>
+    <tag k="locale" v="de"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="Kartierung von Wiesen"/>
+  </changeset>
+  <changeset id="123593909" created_at="2022-07-14T07:24:40Z" open="true" num_changes="2" user="PtitLouis_" uid="15968482" min_lat="45.768049" max_lat="45.768391" min_lon="-1.137946" max_lon="-1.137576" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddBuildingType"/>
+    <tag k="locale" v="fr-FR"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add building types"/>
+  </changeset>
+  <changeset id="123593910" created_at="2022-07-14T07:24:40Z" closed_at="2022-07-14T07:24:42Z" open="false" num_changes="9" user="Bolt043" uid="15547651" min_lat="4.8265319" max_lat="4.8276905" min_lon="7.0401085" max_lon="7.0427473" comments_count="0">
+    <tag k="source" v="Esri"/>
+    <tag k="hashtags" v="#bolt"/>
+    <tag k="created_by" v="JOSM/1.5 (18427 en)"/>
+    <tag k="comment" v="created missing road #bolt"/>
+  </changeset>
+  <changeset id="123593911" created_at="2022-07-14T07:24:42Z" closed_at="2022-07-14T07:24:43Z" open="false" num_changes="42" user="andreiSk" uid="4688028" min_lat="44.5700914" max_lat="44.6032497" min_lon="27.5689253" max_lon="27.5885222" comments_count="0">
+    <tag k="source" v="Maxar Premium Imagery"/>
+    <tag k="hashtags" v="#Kaart"/>
+    <tag k="created_by" v="JOSM/1.5 (18360 en)"/>
+    <tag k="comment" v="Updated road alignment in Ialomița County, Romania. #Kaart 2022"/>
+  </changeset>
+  <changeset id="123593912" created_at="2022-07-14T07:24:50Z" closed_at="2022-07-14T07:24:50Z" open="false" num_changes="1" user="amstutpe" uid="14674335" min_lat="47.2057815" max_lat="47.2057815" min_lon="8.1910687" max_lon="8.1910687" comments_count="0">
+    <tag k="changesets_count" v="386"/>
+    <tag k="imagery_used" v="swisstopo SWISSIMAGE"/>
+    <tag k="locale" v="de"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="Adresse ergänzt"/>
+  </changeset>
+  <changeset id="123593913" created_at="2022-07-14T07:24:51Z" closed_at="2022-07-14T07:24:52Z" open="false" num_changes="15" user="VLD149" uid="10979429" min_lat="28.9817704" max_lat="28.9869091" min_lon="76.8042666" max_lon="76.805023" comments_count="0">
+    <tag k="changesets_count" v="16517"/>
+    <tag k="hashtags" v="#mapwithai;#India"/>
+    <tag k="imagery_used" v="Mapbox Satellite;.gpx data file;Maxar Premium Imagery"/>
+    <tag k="locale" v="en"/>
+    <tag k="host" v="https://tasks.mapwith.ai/projects/70/map/"/>
+    <tag k="created_by" v="RapiD 1.1.8"/>
+    <tag k="comment" v="#mapwithai #India Modified and Created Residential Ways"/>
+  </changeset>
+  <changeset id="123593914" created_at="2022-07-14T07:24:52Z" open="true" num_changes="3" user="jhon123w" uid="16539471" min_lat="-41.4384538" max_lat="-41.4381998" min_lon="147.1172513" max_lon="147.1178718" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddBuildingType"/>
+    <tag k="locale" v="en-US"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add building types"/>
+  </changeset>
+  <changeset id="123593915" created_at="2022-07-14T07:24:53Z" closed_at="2022-07-14T07:24:55Z" open="false" num_changes="2" user="EverDice" uid="13841132" min_lat="60.0919728" max_lat="60.0954738" min_lon="6.3379825" max_lon="6.3443964" comments_count="0">
+    <tag k="source" v="Norway Orthophoto"/>
+    <tag k="hashtags" v="#tomtom"/>
+    <tag k="created_by" v="JOSM/1.5 (18463 en)"/>
+    <tag k="comment" v="Removed the single member natural water multipolygon relation and added water tag to the polygon #tomtom"/>
+  </changeset>
+  <changeset id="123593916" created_at="2022-07-14T07:24:55Z" closed_at="2022-07-14T07:25:09Z" open="false" num_changes="5598" user="Narindra Fidintsoa" uid="7041772" min_lat="-19.3594373" max_lat="-19.2804457" min_lon="47.6741463" max_lon="47.7229947" comments_count="0">
+    <tag k="source" v="Maxar Premium Imagery; Maxar-Premium"/>
+    <tag k="hashtags" v="#opfistula;#projectfree"/>
+    <tag k="created_by" v="JOSM/1.5 (18463 fr)"/>
+    <tag k="comment" v="Alatsinainy Bakaro, Andramasina, Analamanga, Madagascar. Mapping of buildings, roads and water features #opfistula #projectfree"/>
+  </changeset>
+  <changeset id="123593917" created_at="2022-07-14T07:24:56Z" closed_at="2022-07-14T07:24:57Z" open="false" num_changes="176" user="Ionut Paduretu" uid="4170283" min_lat="45.1060166" max_lat="45.1649536" min_lon="24.1281468" max_lon="24.214729" comments_count="0">
+    <tag k="changesets_count" v="11958"/>
+    <tag k="imagery_used" v="Bing Maps Aerial;Maxar Premium Imagery"/>
+    <tag k="locale" v="ro"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="Stoenești, Vâlcea updates"/>
+  </changeset>
+  <changeset id="123593918" created_at="2022-07-14T07:24:59Z" closed_at="2022-07-14T07:25:00Z" open="false" num_changes="28" user="bkrc" uid="8150490" min_lat="37.5902888" max_lat="37.5954652" min_lon="36.8371643" max_lon="36.8527935" comments_count="0">
+    <tag k="changesets_count" v="1792"/>
+    <tag k="imagery_used" v="Esri World Imagery"/>
+    <tag k="locale" v="tr"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="düzenleme"/>
+  </changeset>
+  <changeset id="123593919" created_at="2022-07-14T07:24:59Z" closed_at="2022-07-14T07:25:02Z" open="false" num_changes="14" user="pmarkina_lyft" uid="12195744" min_lat="35.4109898" max_lat="35.416981" min_lon="-119.059378" max_lon="-119.0532471" comments_count="0">
+    <tag k="ideditor:walkthrough_started" v="yes"/>
+    <tag k="changesets_count" v="1"/>
+    <tag k="imagery_used" v="Mapbox Satellite"/>
+    <tag k="locale" v="en-GB"/>
+    <tag k="host" v="https://lyft.com"/>
+    <tag k="created_by" v="iD 2.21.0"/>
+    <tag k="comment" v="Changed “lanes” tag and added “turn:lanes” tag according to the proprietary street level imagery"/>
+  </changeset>
+  <changeset id="123593920" created_at="2022-07-14T07:24:59Z" open="true" num_changes="2" user="PtitLouis_" uid="15968482" min_lat="45.768049" max_lat="45.768391" min_lon="-1.137946" max_lon="-1.137576" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddBuildingLevels"/>
+    <tag k="locale" v="fr-FR"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add building and roof levels"/>
+  </changeset>
+  <changeset id="123593921" created_at="2022-07-14T07:25:01Z" open="true" num_changes="0" user="vrynkevich_lyft" uid="11904280" comments_count="0">
+    <tag k="changesets_count" v="21"/>
+    <tag k="warnings:outdated_tags:noncanonical_brand" v="1"/>
+    <tag k="imagery_used" v="Bing Maps Aerial"/>
+    <tag k="locale" v="en-GB"/>
+    <tag k="host" v="https://lyft.com"/>
+    <tag k="created_by" v="iD 2.21.0"/>
+    <tag k="comment" v="added lanes count and turn lanes according to proprietary street-level imageries."/>
+  </changeset>
+  <changeset id="123593922" created_at="2022-07-14T07:25:02Z" closed_at="2022-07-14T07:25:04Z" open="false" num_changes="4" user="NeemaAlphonce" uid="6364092" min_lat="-10.2931208" max_lat="-10.2930679" min_lon="40.1859282" max_lon="40.1859956" comments_count="0">
+    <tag k="source" v="tms[21]:http://64.227.118.22/mtwara/{z}/{x}/{y}.jpg"/>
+    <tag k="hashtags" v="#hotosm-project-12981"/>
+    <tag k="created_by" v="JOSM/1.5 (18463 en)"/>
+    <tag k="comment" v="#hotosm-project-12981"/>
+  </changeset>
+  <changeset id="123593923" created_at="2022-07-14T07:25:04Z" closed_at="2022-07-14T07:25:06Z" open="false" num_changes="346" user="VLD263" uid="11631028" min_lat="27.4348165" max_lat="27.4764076" min_lon="77.9389885" max_lon="77.9905978" comments_count="0">
+    <tag k="source" v="Maxar Premium Imagery"/>
+    <tag k="hashtags" v="#mapwithai;#India"/>
+    <tag k="created_by" v="JOSM/1.5 (18427 en)"/>
+    <tag k="comment" v="#mapwithai #India Created Unclassified and Residential Ways"/>
+  </changeset>
+  <changeset id="123593924" created_at="2022-07-14T07:25:05Z" closed_at="2022-07-14T07:25:06Z" open="false" num_changes="76" user="VLD250" uid="10979430" min_lat="29.0445303" max_lat="29.0659719" min_lon="76.8473928" max_lon="76.8748767" comments_count="0">
+    <tag k="changesets_count" v="16491"/>
+    <tag k="hashtags" v="#mapwithai;#India"/>
+    <tag k="imagery_used" v="Maxar Premium Imagery;.gpx data file"/>
+    <tag k="locale" v="en"/>
+    <tag k="host" v="https://tasks.mapwith.ai/projects/70/map/"/>
+    <tag k="created_by" v="RapiD 1.1.8"/>
+    <tag k="comment" v="#mapwithai #India  Added residential ways"/>
+  </changeset>
+  <changeset id="123593925" created_at="2022-07-14T07:25:06Z" open="true" num_changes="2" user="momabebra" uid="9508237" min_lat="52.549675" max_lat="52.5507579" min_lon="13.4299107" max_lon="13.4317909" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddForestLeafType"/>
+    <tag k="locale" v="de-DE"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add leaf type"/>
+  </changeset>
+  <changeset id="123593926" created_at="2022-07-14T07:25:10Z" closed_at="2022-07-14T07:25:11Z" open="false" num_changes="4" user="obk-theo07" uid="7729258" min_lat="50.9456205" max_lat="50.9481328" min_lon="7.4873823" max_lon="7.4905679" comments_count="0">
+    <tag k="changesets_count" v="1275"/>
+    <tag k="imagery_used" v="NRW Orthophoto"/>
+    <tag k="locale" v="de"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="Straßen aufgetrennt"/>
+  </changeset>
+  <changeset id="123593927" created_at="2022-07-14T07:25:12Z" closed_at="2022-07-14T07:25:14Z" open="false" num_changes="5" user="Sara Tancredi" uid="13701193" min_lat="-21.9594336" max_lat="-21.9593776" min_lon="47.8321023" max_lon="47.8321613" comments_count="0">
+    <tag k="source" v="Maxar Premium Imagery"/>
+    <tag k="created_by" v="JOSM/1.5 (17919 fr)"/>
+    <tag k="comment" v="Rectification doublon"/>
+  </changeset>
+  <changeset id="123593928" created_at="2022-07-14T07:25:17Z" closed_at="2022-07-14T07:25:18Z" open="false" num_changes="264" user="IsleofSkye9" uid="10529618" min_lat="7.9200913" max_lat="7.9337203" min_lon="-69.6016261" max_lon="-69.5889167" comments_count="0">
+    <tag k="source" v="Maxar Premium Imagery"/>
+    <tag k="hashtags" v="#adt"/>
+    <tag k="created_by" v="JOSM/1.5 (18427 en)"/>
+    <tag k="comment" v="Adjusted the alignment of inner polygon features #adt"/>
+  </changeset>
+  <changeset id="123593929" created_at="2022-07-14T07:25:17Z" open="true" num_changes="4" user="PRISCOVIA12" uid="12176699" min_lat="-15.3587757" max_lat="-15.3583821" min_lon="28.3741268" max_lon="28.374386" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddBuildingType"/>
+    <tag k="locale" v="en-US"/>
+    <tag k="created_by" v="StreetComplete 42.0"/>
+    <tag k="comment" v="Add building types"/>
+  </changeset>
+  <changeset id="123593930" created_at="2022-07-14T07:25:18Z" closed_at="2022-07-14T07:25:19Z" open="false" num_changes="37" user="Alex_147258369" uid="14270545" min_lat="56.3192124" max_lat="56.3214941" min_lon="43.9452029" max_lon="43.9482739" comments_count="0">
+    <tag k="changesets_count" v="69"/>
+    <tag k="resolved:crossing_ways:highway-railway" v="1"/>
+    <tag k="warnings:crossing_ways:highway-railway" v="6"/>
+    <tag k="warnings:mismatched_geometry:line_as_vertex" v="1"/>
+    <tag k="imagery_used" v="OpenStreetMap (Standard)"/>
+    <tag k="locale" v="ru"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="Пешеходные переходы, бордюры, заборы"/>
+  </changeset>
+  <changeset id="123593931" created_at="2022-07-14T07:25:20Z" closed_at="2022-07-14T07:25:20Z" open="false" num_changes="6" user="alxGS" uid="13367754" min_lat="48.1487186" max_lat="48.1498069" min_lon="15.1605377" max_lon="15.1635598" comments_count="0">
+    <tag k="changesets_count" v="2385"/>
+    <tag k="imagery_used" v="basemap.at Orthofoto"/>
+    <tag k="locale" v="en"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="set track to private"/>
+  </changeset>
+  <changeset id="123593932" created_at="2022-07-14T07:25:22Z" closed_at="2022-07-14T07:25:23Z" open="false" num_changes="41" user="AmritaPerth" uid="15403533" min_lat="24.8872734" max_lat="24.8941832" min_lon="91.0222205" max_lon="91.0309725" comments_count="0">
+    <tag k="changesets_count" v="563"/>
+    <tag k="hashtags" v="#hotosm-project-12823;#OSMBD;#Bangladesh;#BangladeshFloodResponse2022"/>
+    <tag k="imagery_used" v="Maxar Premium Imagery;.gpx data file"/>
+    <tag k="locale" v="en"/>
+    <tag k="host" v="https://tasks.hotosm.org/projects/12823/map/"/>
+    <tag k="created_by" v="iD 2.20.2"/>
+    <tag k="comment" v="#hotosm-project-12823 #OSMBD #Bangladesh #BangladeshFloodResponse2022"/>
+  </changeset>
+  <changeset id="123593933" created_at="2022-07-14T07:25:22Z" closed_at="2022-07-14T07:25:23Z" open="false" num_changes="4" user="mubshh" uid="11808058" min_lat="43.096326" max_lat="43.09649" min_lon="-76.082573" max_lon="-76.07899" comments_count="0">
+    <tag k="changesets_count" v="18979"/>
+    <tag k="hashtags" v="#amap"/>
+    <tag k="imagery_used" v="Mapbox Satellite;Bing Streetside;Mapillary Images;KartaView Images;Bing Maps Aerial"/>
+    <tag k="source" v="streetlevel imagery;streetside"/>
+    <tag k="locale" v="en"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="Added barrier. #amap"/>
+  </changeset>
+  <changeset id="123593934" created_at="2022-07-14T07:25:22Z" closed_at="2022-07-14T07:25:24Z" open="false" num_changes="101" user="RosaColacicco" uid="2783807" min_lat="25.0565788" max_lat="25.06435" min_lon="91.4414446" max_lon="91.4495599" comments_count="0">
+    <tag k="source" v="Maxar Premium Imagery"/>
+    <tag k="hashtags" v="#hotosm-project-12823;#OSMBD;#Bangladesh;#BangladeshFloodResponse2022;#youthmappersuniba"/>
+    <tag k="created_by" v="JOSM/1.5 (17833 en)"/>
+    <tag k="comment" v="#hotosm-project-12823 #OSMBD #Bangladesh #BangladeshFloodResponse2022 #youthmappersuniba"/>
+  </changeset>
+</osm>

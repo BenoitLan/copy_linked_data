@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="replicate_changesets.rb" copyright="OpenStreetMap and contributors" attribution="https://www.openstreetmap.org/copyright" license="https://opendatacommons.org/licenses/odbl/1-0/">
+  <changeset id="123592573" created_at="2022-07-14T06:48:40Z" closed_at="2022-07-14T07:48:40Z" open="false" num_changes="1" user="Bernie6416" uid="12750213" min_lat="50.8737669" max_lat="50.873797" min_lon="5.9949095" max_lon="5.9949106" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddHandrail"/>
+    <tag k="locale" v="nl-NL"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add whether steps have a handrail"/>
+  </changeset>
+  <changeset id="123592580" created_at="2022-07-14T06:48:51Z" closed_at="2022-07-14T07:48:51Z" open="false" num_changes="1" user="Astrolabe CAE" uid="15982199" min_lat="48.1832439" max_lat="48.1834998" min_lon="-1.6403098" max_lon="-1.6399692" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddBuildingType"/>
+    <tag k="locale" v="fr-FR"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add building types"/>
+  </changeset>
+  <changeset id="123594863" created_at="2022-07-14T07:47:56Z" closed_at="2022-07-14T07:47:57Z" open="false" num_changes="5" user="kmarkish_lyft" uid="11824233" min_lat="42.3862277" max_lat="42.3863956" min_lon="-83.1529485" max_lon="-83.1459021" comments_count="0">
+    <tag k="changesets_count" v="6"/>
+    <tag k="imagery_used" v="Bing Maps Aerial"/>
+    <tag k="locale" v="en-GB"/>
+    <tag k="host" v="https://lyft.com"/>
+    <tag k="created_by" v="iD 2.21.0"/>
+    <tag k="comment" v="added lanes tag"/>
+  </changeset>
+  <changeset id="123594864" created_at="2022-07-14T07:48:03Z" closed_at="2022-07-14T07:48:05Z" open="false" num_changes="7" user="Bolt044" uid="15547654" min_lat="4.8069725" max_lat="4.8099964" min_lon="6.9784104" max_lon="6.9792352" comments_count="0">
+    <tag k="source" v="Esri World"/>
+    <tag k="hashtags" v="#Bolt"/>
+    <tag k="created_by" v="JOSM/1.5 (18387 en)"/>
+    <tag k="comment" v="Adding Missing Road #Bolt"/>
+  </changeset>
+  <changeset id="123594865" created_at="2022-07-14T07:48:07Z" closed_at="2022-07-14T07:48:07Z" open="false" num_changes="1" user="akuksouski_lyft" uid="12479290" min_lat="30.1498889" max_lat="30.1502954" min_lon="-95.5497253" max_lon="-95.5496962" comments_count="0">
+    <tag k="changesets_count" v="1"/>
+    <tag k="imagery_used" v="Mapbox Satellite"/>
+    <tag k="locale" v="en-GB"/>
+    <tag k="host" v="https://lyft.com"/>
+    <tag k="created_by" v="iD 2.21.0"/>
+    <tag k="comment" v="Added  tag  &quot;lanes&quot;  according to proprietary streetlevel imagery"/>
+  </changeset>
+  <changeset id="123594866" created_at="2022-07-14T07:48:08Z" closed_at="2022-07-14T07:48:08Z" open="false" num_changes="5" user="Karan Madaan" uid="16286145" min_lat="14.836567" max_lat="14.8366759" min_lon="-90.8038287" max_lon="-90.8037178" comments_count="0">
+    <tag k="review_requested" v="yes"/>
+    <tag k="changesets_count" v="16"/>
+    <tag k="hashtags" v="#hotosm-project-12842;#OpenCitiesLAC;#hoganlovells;#atlassian"/>
+    <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+    <tag k="locale" v="en"/>
+    <tag k="host" v="https://tasks.hotosm.org/projects/12842/map/"/>
+    <tag k="created_by" v="iD 2.20.2"/>
+    <tag k="comment" v="#hotosm-project-12842 #OpenCitiesLAC #hoganlovells"/>
+  </changeset>
+  <changeset id="123594867" created_at="2022-07-14T07:48:10Z" closed_at="2022-07-14T07:48:13Z" open="false" num_changes="14" user="Dinaky" uid="13573509" min_lat="-21.9675124" max_lat="-21.9673894" min_lon="47.859316" max_lon="47.8594212" comments_count="0">
+    <tag k="source" v="Maxar Premium Imagery"/>
+    <tag k="created_by" v="JOSM/1.5 (18387 fr)"/>
+    <tag k="comment" v="rectification de doublon"/>
+  </changeset>
+  <changeset id="123594868" created_at="2022-07-14T07:48:11Z" closed_at="2022-07-14T07:48:12Z" open="false" num_changes="5" user="Angela Ness-Harvey" uid="16529475" min_lat="25.1466146" max_lat="25.1467102" min_lon="91.2266258" max_lon="91.2267184" comments_count="0">
+    <tag k="ideditor:walkthrough_started" v="yes"/>
+    <tag k="ideditor:walkthrough_progress" v="startEditing"/>
+    <tag k="changesets_count" v="96"/>
+    <tag k="hashtags" v="#hotosm-project-12823;#OSMBD;#Bangladesh;#BangladeshFloodResponse2022"/>
+    <tag k="imagery_used" v="Maxar Premium Imagery;.gpx data file"/>
+    <tag k="locale" v="en"/>
+    <tag k="host" v="https://tasks.hotosm.org/projects/12823/map/"/>
+    <tag k="created_by" v="iD 2.20.2"/>
+    <tag k="comment" v="#hotosm-project-12823 #OSMBD #Bangladesh #BangladeshFloodResponse2022"/>
+  </changeset>
+  <changeset id="123594869" created_at="2022-07-14T07:48:12Z" closed_at="2022-07-14T07:48:14Z" open="false" num_changes="97" user="Lalit_IAAS" uid="11589667" min_lat="0.461465" max_lat="0.4639158" min_lon="34.4765202" max_lon="34.4784511" comments_count="0">
+    <tag k="source" v="Maxar Premium Imagery"/>
+    <tag k="hashtags" v="#hotosm-project-12614;#Naxa;#RemoteMappingKenya;#YouthMappers;#dmd;#OSMNepal;#WBR;#NFL;#EPFL;#GESAN;#AgrimappersPaklihawa"/>
+    <tag k="created_by" v="JOSM/1.5 (18004 en)"/>
+    <tag k="comment" v="#hotosm-project-12614 #Naxa #RemoteMappingKenya #YouthMappers #dmd #OSMNepal #WBR #NFL #EPFL #GESAN #AgrimappersPaklihawa"/>
+  </changeset>
+  <changeset id="123594870" created_at="2022-07-14T07:48:12Z" closed_at="2022-07-14T07:48:14Z" open="false" num_changes="325" user="Phuntsho Dorji" uid="15264796" min_lat="27.5106969" max_lat="27.515628" min_lon="89.6411953" max_lon="89.6437111" comments_count="0">
+    <tag k="ideditor:walkthrough_started" v="yes"/>
+    <tag k="ideditor:walkthrough_progress" v="welcome;startEditing"/>
+    <tag k="changesets_count" v="84"/>
+    <tag k="resolved:close_nodes:detached" v="1"/>
+    <tag k="resolved:missing_tag:any" v="106"/>
+    <tag k="imagery_used" v="Esri World Imagery"/>
+    <tag k="locale" v="en"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="New City addressing system for Thimphu Thromde"/>
+  </changeset>
+  <changeset id="123594871" created_at="2022-07-14T07:48:13Z" closed_at="2022-07-14T07:48:13Z" open="false" num_changes="16" user="ratrun" uid="474183" min_lat="34.6105897" max_lat="34.8102075" min_lon="135.4864676" max_lon="135.5638504" comments_count="0">
+    <tag k="source" v="Maxar Premium Imagery"/>
+    <tag k="created_by" v="JOSM/1.5 (18513 de)"/>
+    <tag k="comment" v="osmi routing view fixes"/>
+  </changeset>
+  <changeset id="123594872" created_at="2022-07-14T07:48:13Z" closed_at="2022-07-14T07:48:15Z" open="false" num_changes="42" user="lowkey1982" uid="15762011" min_lat="14.65665" max_lat="14.657675" min_lon="-91.1133439" max_lon="-91.1125084" comments_count="0">
+    <tag k="changesets_count" v="23"/>
+    <tag k="hashtags" v="#hotosm-project-12831;#OpenCitiesLAC;#bofa;#bofagbsindia;#bofamumbai"/>
+    <tag k="imagery_used" v="Maxar Premium Imagery;.gpx data file"/>
+    <tag k="locale" v="en"/>
+    <tag k="host" v="https://tasks.hotosm.org/projects/12831/map/"/>
+    <tag k="created_by" v="iD 2.20.2"/>
+    <tag k="comment" v="#hotosm-project-12831 #OpenCitiesLAC #bofa"/>
+  </changeset>
+  <changeset id="123594873" created_at="2022-07-14T07:48:14Z" closed_at="2022-07-14T07:48:15Z" open="false" num_changes="1" user="A_Prokopova_lyft" uid="10976496" min_lat="45.3794232" max_lat="45.3801598" min_lon="-122.7591218" max_lon="-122.7590361" comments_count="0">
+    <tag k="ideditor:walkthrough_started" v="yes"/>
+    <tag k="ideditor:walkthrough_progress" v="welcome"/>
+    <tag k="changesets_count" v="1"/>
+    <tag k="imagery_used" v="Bing Maps Aerial"/>
+    <tag k="locale" v="en-US"/>
+    <tag k="host" v="https://lyft.com"/>
+    <tag k="created_by" v="iD 2.21.0"/>
+    <tag k="comment" v="Added lane numbers According to proprietary streetlevel imagery"/>
+  </changeset>
+  <changeset id="123594874" created_at="2022-07-14T07:48:15Z" closed_at="2022-07-14T07:48:16Z" open="false" num_changes="1" user="Javadmba" uid="10145967" min_lat="36.6886428" max_lat="36.6886428" min_lon="52.5958373" max_lon="52.5958373" comments_count="0">
+    <tag k="changesets_count" v="1920"/>
+    <tag k="imagery_used" v="Bing Maps Aerial"/>
+    <tag k="locale" v="fa-IR"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="املاک دادی لانه"/>
+  </changeset>
+  <changeset id="123594875" created_at="2022-07-14T07:48:19Z" closed_at="2022-07-14T07:48:20Z" open="false" num_changes="1" user="syrym_8787" uid="10219602" min_lat="40.8520406" max_lat="40.8524627" min_lon="68.4976563" max_lon="68.4978664" comments_count="0">
+    <tag k="changesets_count" v="1194"/>
+    <tag k="imagery_used" v="Bing Maps Aerial"/>
+    <tag k="locale" v="ru"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="1"/>
+  </changeset>
+  <changeset id="123594876" created_at="2022-07-14T07:48:25Z" closed_at="2022-07-14T07:48:27Z" open="false" num_changes="7" user="Sangay Zangmo" uid="16530359" min_lat="27.4426192" max_lat="27.4428318" min_lon="89.6699403" max_lon="89.6701692" comments_count="0">
+    <tag k="changesets_count" v="317"/>
+    <tag k="imagery_used" v="Bing Maps Aerial"/>
+    <tag k="locale" v="en"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="New City Addressing System for Thimphu Thromde"/>
+  </changeset>
+  <changeset id="123594877" created_at="2022-07-14T07:48:29Z" closed_at="2022-07-14T07:48:29Z" open="false" num_changes="1" user="mikkelssonni" uid="16540307" min_lat="63.7982139" max_lat="63.7982219" min_lon="23.093351" max_lon="23.0939575" comments_count="0">
+    <tag k="ideditor:walkthrough_started" v="yes"/>
+    <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+    <tag k="changesets_count" v="4"/>
+    <tag k="warnings:crossing_ways:highway-railway" v="1"/>
+    <tag k="imagery_used" v="MML Orthophoto"/>
+    <tag k="locale" v="fi"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="polku"/>
+  </changeset>
+  <changeset id="123594878" created_at="2022-07-14T07:48:29Z" closed_at="2022-07-14T07:48:30Z" open="false" num_changes="1" user="moudevir" uid="14074732" min_lat="26.2811644" max_lat="26.2812685" min_lon="-98.2674566" max_lon="-98.2666889" comments_count="0">
+    <tag k="changesets_count" v="530"/>
+    <tag k="imagery_used" v="Bing aerial imagery"/>
+    <tag k="hashtags" v="#amap"/>
+    <tag k="locale" v="en-US"/>
+    <tag k="host" v="https://ideditor.amazon.com"/>
+    <tag k="created_by" v="iD 2.19.6"/>
+    <tag k="comment" v="#amap"/>
+  </changeset>
+  <changeset id="123594879" created_at="2022-07-14T07:48:30Z" closed_at="2022-07-14T07:48:32Z" open="false" num_changes="1" user="Leduky" uid="10933124" min_lat="-1.7225" max_lat="-1.7225" min_lon="29.9233795" max_lon="29.9233795" comments_count="0">
+    <tag k="created_by" v="MAPS.ME android 12.3.3-Google"/>
+    <tag k="comment" v="Created a school"/>
+    <tag k="bundle_id" v="com.mapswithme.maps.pro"/>
+  </changeset>
+  <changeset id="123594880" created_at="2022-07-14T07:48:31Z" closed_at="2022-07-14T07:48:31Z" open="false" num_changes="3" user="NetFarmer" uid="610278" min_lat="55.9332401" max_lat="55.9332756" min_lon="37.5562859" max_lon="37.5566902" comments_count="0">
+    <tag k="changesets_count" v="7651"/>
+    <tag k="resolved:outdated_tags:noncanonical_brand" v="1"/>
+    <tag k="imagery_used" v="Maxar Premium Imagery"/>
+    <tag k="locale" v="ru"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="Расположение магазинов"/>
+  </changeset>
+  <changeset id="123594881" created_at="2022-07-14T07:48:32Z" closed_at="2022-07-14T07:48:32Z" open="false" num_changes="1" user="ashybko_lyft" uid="11249764" min_lat="34.1627968" max_lat="34.1661535" min_lon="-118.0855633" max_lon="-118.0819341" comments_count="0">
+    <tag k="changesets_count" v="1"/>
+    <tag k="warnings:outdated_tags:noncanonical_brand" v="1"/>
+    <tag k="imagery_used" v="Mapbox Satellite"/>
+    <tag k="locale" v="en-GB"/>
+    <tag k="host" v="https://lyft.com"/>
+    <tag k="created_by" v="iD 2.21.0"/>
+    <tag k="comment" v="added lanes count according to proprietary street-level imagery"/>
+  </changeset>
+  <changeset id="123594882" created_at="2022-07-14T07:48:32Z" closed_at="2022-07-14T07:48:32Z" open="false" num_changes="1" user="amstutpe" uid="14674335" min_lat="46.7763516" max_lat="46.7763516" min_lon="8.7343971" max_lon="8.7343971" comments_count="0">
+    <tag k="changesets_count" v="392"/>
+    <tag k="imagery_used" v="swisstopo SWISSIMAGE"/>
+    <tag k="locale" v="de"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="Adresse ergänzt"/>
+  </changeset>
+  <changeset id="123594883" created_at="2022-07-14T07:48:34Z" closed_at="2022-07-14T07:48:36Z" open="false" num_changes="1" user="moudevir" uid="14074732" min_lat="26.2811644" max_lat="26.2812685" min_lon="-98.2674566" max_lon="-98.2666889" comments_count="0">
+    <tag k="changesets_count" v="530"/>
+    <tag k="hashtags" v="#amap"/>
+    <tag k="imagery_used" v="Mapbox Satellite;Bing Streetside;Mapillary Images;Mapillary Map Features;Mapillary Signs"/>
+    <tag k="source" v=";streetlevel imagery;streetside;mapillary;mapillary-map-features;mapillary-signs"/>
+    <tag k="locale" v="en"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="added directions #amap"/>
+  </changeset>
+  <changeset id="123594884" created_at="2022-07-14T07:48:35Z" closed_at="2022-07-14T07:48:36Z" open="false" num_changes="1" user="ntamaran" uid="14625813" min_lat="39.6840828" max_lat="39.684551" min_lon="-82.5215181" max_lon="-82.5211319" comments_count="0">
+    <tag k="changesets_count" v="711"/>
+    <tag k="imagery_used" v="Bing Maps Aerial;Bing Streetside;Mapillary Images;KartaView Images"/>
+    <tag k="locale" v="en"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="add access tag # amp"/>
+  </changeset>
+  <changeset id="123594885" created_at="2022-07-14T07:48:35Z" closed_at="2022-07-14T07:48:36Z" open="false" num_changes="2" user="Tajtrdlik" uid="13637600" min_lat="50.0444705" max_lat="50.044505" min_lon="15.7567114" max_lon="15.7567208" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="created_by" v="JOSM/1.5 (18513 cs)"/>
+    <tag k="comment" v="#Mapy.cz - Zakreslení stojanů na kola"/>
+  </changeset>
+  <changeset id="123594886" created_at="2022-07-14T07:48:37Z" closed_at="2022-07-14T07:48:37Z" open="false" num_changes="3" user="kmarkish_lyft" uid="11824233" min_lat="45.0784165" max_lat="45.0791946" min_lon="-93.0561602" max_lon="-93.0560637" comments_count="0">
+    <tag k="changesets_count" v="14"/>
+    <tag k="imagery_used" v="Mapbox Satellite"/>
+    <tag k="locale" v="en-US"/>
+    <tag k="host" v="https://lyft.com"/>
+    <tag k="created_by" v="iD 2.21.0"/>
+    <tag k="comment" v="Added lanes tags according to proprietary street-level imagery"/>
+  </changeset>
+  <changeset id="123594887" created_at="2022-07-14T07:48:38Z" closed_at="2022-07-14T07:48:40Z" open="false" num_changes="1" user="DenisCH87" uid="16449292" min_lat="55.255282" max_lat="55.255282" min_lon="63.2576246" max_lon="63.2576246" comments_count="0">
+    <tag k="created_by" v="MAPS.ME android 14.0.71350"/>
+    <tag k="comment" v="Created a fast_food"/>
+    <tag k="bundle_id" v="com.mapswithme.maps.pro"/>
+  </changeset>
+  <changeset id="123594888" created_at="2022-07-14T07:48:38Z" open="true" num_changes="17" user="escribis" uid="12951226" min_lat="43.6407888" max_lat="43.6614854" min_lon="-1.4429807" max_lon="-1.4360123" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="comment" v="ajoute 43 piscines et autres objets"/>
+    <tag k="created_by" v="Osm Go! 1.5.0"/>
+  </changeset>
+  <changeset id="123594889" created_at="2022-07-14T07:48:38Z" closed_at="2022-07-14T07:48:39Z" open="false" num_changes="138" user="Li-H" uid="8266201" min_lat="50.9075889" max_lat="50.913286" min_lon="34.7970361" max_lon="34.8054007" comments_count="0">
+    <tag k="changesets_count" v="1128"/>
+    <tag k="imagery_used" v="Maxar Premium Imagery"/>
+    <tag k="locale" v="ru"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="Пешеходные дорожки, проезды, ограничения доступа, соединения в центре. Придорожный крест."/>
+  </changeset>
+  <changeset id="123594890" created_at="2022-07-14T07:48:40Z" closed_at="2022-07-14T07:48:41Z" open="false" num_changes="5" user="Narovlia" uid="1740287" min_lat="51.7835018" max_lat="51.7840239" min_lon="29.5071126" max_lon="29.5074617" comments_count="0">
+    <tag k="created_by" v="JOSM/1.5 (11223 ru)"/>
+  </changeset>
+  <changeset id="123594891" created_at="2022-07-14T07:48:40Z" closed_at="2022-07-14T07:48:40Z" open="false" num_changes="1" user="kartonage" uid="1497225" min_lat="52.1370162" max_lat="52.1370162" min_lon="11.7400347" max_lon="11.7400347" comments_count="0">
+    <tag k="source" v="existing OSM data"/>
+    <tag k="created_by" v="JOSM/1.5 (18513 en)"/>
+    <tag k="comment" v="Sachsen-Anhalt: opening hours language syntax"/>
+  </changeset>
+  <changeset id="123594892" created_at="2022-07-14T07:48:40Z" closed_at="2022-07-14T07:48:42Z" open="false" num_changes="5" user="Bolt044" uid="15547654" min_lat="4.80696" max_lat="4.8083168" min_lon="6.9763799" max_lon="6.9829946" comments_count="0">
+    <tag k="source" v="Esri World"/>
+    <tag k="hashtags" v="#Bolt"/>
+    <tag k="created_by" v="JOSM/1.5 (18387 en)"/>
+    <tag k="comment" v="Adding Missing Road #Bolt"/>
+  </changeset>
+  <changeset id="123594893" created_at="2022-07-14T07:48:41Z" closed_at="2022-07-14T07:48:43Z" open="false" num_changes="99" user="catherine godwin" uid="7900021" min_lat="-10.2758598" max_lat="-10.2742552" min_lon="40.1866135" max_lon="40.1880962" comments_count="0">
+    <tag k="source" v="tms[21]:http://64.227.118.22/mtwara/{z}/{x}/{y}.jpg"/>
+    <tag k="hashtags" v="#hotosm-project-12981"/>
+    <tag k="created_by" v="JOSM/1.5 (18303 en)"/>
+    <tag k="comment" v="#hotosm-project-12981"/>
+  </changeset>
+  <changeset id="123594894" created_at="2022-07-14T07:48:43Z" closed_at="2022-07-14T07:48:45Z" open="false" num_changes="7" user="YataGeo" uid="15458620" min_lat="29.7405215" max_lat="29.7406726" min_lon="-95.4659155" max_lon="-95.4656327" comments_count="0">
+    <tag k="source" v="Bing Aerial Imagery"/>
+    <tag k="hashtags" v="#tomtom"/>
+    <tag k="created_by" v="JOSM/1.5 (18463 en)"/>
+    <tag k="comment" v="Smoothened the sharp edge of the primary link #tomtom"/>
+  </changeset>
+  <changeset id="123594895" created_at="2022-07-14T07:48:43Z" open="true" num_changes="2" user="Tanzbärli" uid="11052582" min_lat="49.7667425" max_lat="49.7669903" min_lon="8.0002692" max_lon="8.0028132" comments_count="0">
+    <tag k="source" v="survey"/>
+    <tag k="StreetComplete:quest_type" v="AddRoadSurface"/>
+    <tag k="locale" v="de-DE"/>
+    <tag k="created_by" v="StreetComplete 45.0"/>
+    <tag k="comment" v="Add road surface info"/>
+  </changeset>
+  <changeset id="123594896" created_at="2022-07-14T07:48:45Z" closed_at="2022-07-14T07:48:48Z" open="false" num_changes="23" user="Snoops92" uid="8069053" min_lat="-21.9665061" max_lat="-21.9663652" min_lon="47.8636665" max_lon="47.8638188" comments_count="0">
+    <tag k="source" v="Maxar Premium Imagery"/>
+    <tag k="created_by" v="JOSM/1.5 (17919 fr)"/>
+    <tag k="comment" v="Rectification de doublon#geohealthresearch-project-12 #MRPactivity #pasteurMG #ird_fr #pivotmadagascar"/>
+  </changeset>
+  <changeset id="123594897" created_at="2022-07-14T07:48:46Z" closed_at="2022-07-14T07:48:47Z" open="false" num_changes="15" user="Sara Tancredi" uid="13701193" min_lat="-21.9679447" max_lat="-21.967354" min_lon="47.8708555" max_lon="47.8712062" comments_count="0">
+    <tag k="source" v="Maxar Premium Imagery"/>
+    <tag k="created_by" v="JOSM/1.5 (17919 fr)"/>
+    <tag k="comment" v="Rectification doublon"/>
+  </changeset>
+  <changeset id="123594898" created_at="2022-07-14T07:48:46Z" closed_at="2022-07-14T07:48:46Z" open="false" num_changes="6" user="Ravrol" uid="4512222" min_lat="48.785984" max_lat="48.7871672" min_lon="9.6339444" max_lon="9.6354835" comments_count="0">
+    <tag k="source" v="survey;aerial imagery;https://www.stadt-lorch.de/Startseite/Oeffentliche+Einrichtungen/Kindergaerten.html"/>
+    <tag k="changesets_count" v="4969"/>
+    <tag k="imagery_used" v="Bing Maps Aerial"/>
+    <tag k="locale" v="de"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="Kindergärten korrigiert und erweitert"/>
+  </changeset>
+  <changeset id="123594899" created_at="2022-07-14T07:48:48Z" closed_at="2022-07-14T07:48:49Z" open="false" num_changes="28" user="Lirum Larum" uid="214764" min_lat="47.4869263" max_lat="47.4919982" min_lon="8.7607328" max_lon="8.7707246" comments_count="0">
+    <tag k="changesets_count" v="2989"/>
+    <tag k="imagery_used" v="Kanton Zurich, Orthofoto ZH Frühjahr 2021 RGB 5cm"/>
+    <tag k="locale" v="de"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="Neue Gebäude"/>
+  </changeset>
+  <changeset id="123594900" created_at="2022-07-14T07:48:49Z" closed_at="2022-07-14T07:48:49Z" open="false" num_changes="6" user="lavanhya" uid="15273805" min_lat="37.3757698" max_lat="37.3761202" min_lon="-122.1508631" max_lon="-122.1505734" comments_count="0">
+    <tag k="hashtags" v="#amap"/>
+    <tag k="changesets_count" v="123"/>
+    <tag k="imagery_used" v="Bing Maps Aerial;Esri World Imagery (Clarity) Beta;TIGER Roads 2021"/>
+    <tag k="locale" v="en"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.21.1"/>
+    <tag k="comment" v="Added driveway and added road name#amap"/>
+  </changeset>
+</osm>

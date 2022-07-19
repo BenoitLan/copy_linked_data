@@ -1,0 +1,262 @@
+<osmChange version="0.6" generator="OsmSax">
+<modify>
+<node id="620852839" version="2" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9436911" lon="4.3967097"/>
+<node id="620852840" version="2" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9439214" lon="4.396568"/>
+<node id="620852841" version="2" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9437732" lon="4.395932"/>
+<node id="620852842" version="2" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9434882" lon="4.3961465"/>
+<node id="8905067259" version="2" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9434285" lon="4.3962745"/>
+<node id="9219011778" version="2" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9429909" lon="4.3956034"/>
+<node id="9219011779" version="2" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9430108" lon="4.3956525"/>
+<node id="9219011780" version="2" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9429866" lon="4.3956771"/>
+<node id="9219011781" version="2" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9429664" lon="4.395628"/>
+<node id="9219011792" version="2" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9429346" lon="4.3954686"/>
+<node id="9219011793" version="2" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9429487" lon="4.3955122"/>
+<node id="9219011794" version="2" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9429182" lon="4.395536"/>
+<node id="9219011795" version="2" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9429045" lon="4.3954924"/>
+<node id="9219011796" version="2" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9429626" lon="4.3955265"/>
+<node id="9219011797" version="2" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9429893" lon="4.3955936"/>
+<node id="9219011798" version="2" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9429615" lon="4.3956234"/>
+<node id="9219011799" version="2" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9429346" lon="4.3955563"/>
+</modify>
+<create>
+<node id="9886846176" version="1" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9434355" lon="4.3962946"/>
+<node id="9886846177" version="1" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.943617" lon="4.3967967"/>
+<node id="9886846178" version="1" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9434216" lon="4.3961184"/>
+<node id="9886846179" version="1" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9434564" lon="4.3960926"/>
+<node id="9886846180" version="1" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9434882" lon="4.3961465"/>
+<node id="9886846181" version="1" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9433837" lon="4.3961493"/>
+<node id="9886846182" version="1" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9434037" lon="4.3960033"/>
+<node id="9886846183" version="1" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9434037" lon="4.3960033"/>
+<node id="9886846184" version="1" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453" lat="50.9434037" lon="4.3960033"/>
+</create>
+<modify>
+<way id="48920855" version="12" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453">
+<bbox minlat="50.9423678" minlon="4.3947454" maxlat="50.9452529" maxlon="4.3981271"/>
+<tag k="natural" v="wood"/>
+<nd ref="8677129484"/>
+<nd ref="1640962733"/>
+<nd ref="1640886256"/>
+<nd ref="620852836"/>
+<nd ref="620852837"/>
+<nd ref="620852838"/>
+<nd ref="8672863329"/>
+<nd ref="9886846177"/>
+<nd ref="620852839"/>
+<nd ref="620852840"/>
+<nd ref="620852841"/>
+<nd ref="620852842"/>
+<nd ref="9886846179"/>
+<nd ref="8672863319"/>
+<nd ref="9219041750"/>
+<nd ref="9219084054"/>
+<nd ref="9219084056"/>
+<nd ref="9219084055"/>
+<nd ref="620852844"/>
+<nd ref="620852845"/>
+<nd ref="9219084057"/>
+<nd ref="8669553873"/>
+<nd ref="8669553874"/>
+<nd ref="620852847"/>
+<nd ref="2844494317"/>
+<nd ref="2844494318"/>
+<nd ref="2844494323"/>
+<nd ref="620852848"/>
+<nd ref="1640962731"/>
+<nd ref="8911838536"/>
+<nd ref="8677129496"/>
+<nd ref="8677129495"/>
+<nd ref="8677129492"/>
+<nd ref="8677129489"/>
+<nd ref="8677129487"/>
+<nd ref="8677129485"/>
+<nd ref="8677129484"/>
+</way>
+<way id="151267763" version="25" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453">
+<bbox minlat="50.9400586" minlon="4.3928148" maxlat="50.9446258" maxlon="4.3998768"/>
+<tag k="landuse" v="residential"/>
+<nd ref="465240765"/>
+<nd ref="2127421471"/>
+<nd ref="2127421560"/>
+<nd ref="9246686831"/>
+<nd ref="9130340859"/>
+<nd ref="8592823700"/>
+<nd ref="9246686841"/>
+<nd ref="465240471"/>
+<nd ref="8592861557"/>
+<nd ref="465240470"/>
+<nd ref="465240469"/>
+<nd ref="465240468"/>
+<nd ref="470237337"/>
+<nd ref="9413868813"/>
+<nd ref="470237338"/>
+<nd ref="9442888621"/>
+<nd ref="9442888622"/>
+<nd ref="9442888628"/>
+<nd ref="9442888629"/>
+<nd ref="9442888632"/>
+<nd ref="9442888633"/>
+<nd ref="9442888634"/>
+<nd ref="9442888638"/>
+<nd ref="9442888639"/>
+<nd ref="9442888640"/>
+<nd ref="9442888637"/>
+<nd ref="9442888636"/>
+<nd ref="9442888635"/>
+<nd ref="9442888631"/>
+<nd ref="9219084051"/>
+<nd ref="9442888630"/>
+<nd ref="9442888627"/>
+<nd ref="9442888626"/>
+<nd ref="9442888625"/>
+<nd ref="9442888624"/>
+<nd ref="9442888623"/>
+<nd ref="9413868808"/>
+<nd ref="2844492573"/>
+<nd ref="620852744"/>
+<nd ref="9219084052"/>
+<nd ref="9219041749"/>
+<nd ref="9219041746"/>
+<nd ref="9219041747"/>
+<nd ref="9219041753"/>
+<nd ref="9219041752"/>
+<nd ref="9219041751"/>
+<nd ref="2606086494"/>
+<nd ref="9886846178"/>
+<nd ref="9886846181"/>
+<nd ref="8905067259"/>
+<nd ref="9886846176"/>
+<nd ref="8672863328"/>
+<nd ref="8672863329"/>
+<nd ref="8905067261"/>
+<nd ref="1640886254"/>
+<nd ref="470237345"/>
+<nd ref="9442888647"/>
+<nd ref="9442888648"/>
+<nd ref="9442888649"/>
+<nd ref="9663398888"/>
+<nd ref="9663398887"/>
+<nd ref="9663398886"/>
+<nd ref="2127421602"/>
+<nd ref="9311353910"/>
+<nd ref="2127421638"/>
+<nd ref="9663398885"/>
+<nd ref="465240765"/>
+</way>
+<way id="385392319" version="4" timestamp="2022-07-14T09:27:27Z" uid="251543" user="ChrissW-R1" changeset="123599434">
+<bbox minlat="50.994323" minlon="4.3261037" maxlat="50.9983018" maxlon="4.3312502"/>
+<tag k="highway" v="track"/>
+<tag k="name" v="Langeweg"/>
+<tag k="surface" v="grass"/>
+<tag k="width" v="3"/>
+<nd ref="3887394823"/>
+<nd ref="3887394824"/>
+<nd ref="3887394825"/>
+<nd ref="3887394826"/>
+<nd ref="3887394827"/>
+<nd ref="3887394828"/>
+<nd ref="370044100"/>
+</way>
+<way id="935940983" version="3" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453">
+<bbox minlat="50.941380200000005" minlon="4.3934295" maxlat="50.9450128" maxlon="4.3975932"/>
+<tag k="intermittent" v="yes"/>
+<tag k="waterway" v="stream"/>
+<nd ref="8672855408"/>
+<nd ref="8672855409"/>
+<nd ref="8672855410"/>
+<nd ref="8672855411"/>
+<nd ref="8672855412"/>
+<nd ref="9219041772"/>
+<nd ref="9219041773"/>
+<nd ref="9219041748"/>
+<nd ref="9219041774"/>
+<nd ref="8672855414"/>
+<nd ref="8672855415"/>
+<nd ref="9219041775"/>
+<nd ref="8672855416"/>
+<nd ref="8672863317"/>
+<nd ref="8672863318"/>
+<nd ref="9886846182"/>
+<nd ref="8672863320"/>
+<nd ref="8672863321"/>
+<nd ref="8672863322"/>
+<nd ref="8672863323"/>
+<nd ref="8672863324"/>
+<nd ref="8672863325"/>
+<nd ref="8672863326"/>
+<nd ref="8672863327"/>
+</way>
+<way id="998463634" version="5" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453">
+<bbox minlat="50.941610600000004" minlon="4.3941341" maxlat="50.944403699999995" maxlon="4.397003300000001"/>
+<tag k="natural" v="scrub"/>
+<nd ref="9885995631"/>
+<nd ref="8672855413"/>
+<nd ref="9885995633"/>
+<nd ref="9885987748"/>
+<nd ref="9885987752"/>
+<nd ref="620852742"/>
+<nd ref="9219041750"/>
+<nd ref="9886846183"/>
+<nd ref="9219041751"/>
+<nd ref="9219041752"/>
+<nd ref="9219041753"/>
+<nd ref="9219041747"/>
+<nd ref="9219041746"/>
+<nd ref="9219041749"/>
+<nd ref="9219084052"/>
+<nd ref="620852744"/>
+<nd ref="9219084053"/>
+<nd ref="9885995631"/>
+</way>
+<way id="998464767" version="4" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453">
+<bbox minlat="50.941946300000005" minlon="4.3943487" maxlat="50.944403699999995" maxlon="4.397363"/>
+<tag k="OnroerendErfgoed:criteria" v="BE"/>
+<tag k="area" v="yes"/>
+<tag k="heritage:website" v="https://inventaris.onroerenderfgoed.be/erfgoedobjecten/75248"/>
+<tag k="historic" v="heritage"/>
+<tag k="name" v="Deel van het Hof van Oyenbrugge"/>
+<tag k="ref:OnroerendErfgoed" v="75248"/>
+<nd ref="2844492591"/>
+<nd ref="2844492596"/>
+<nd ref="3137225201"/>
+<nd ref="9413868803"/>
+<nd ref="9413868805"/>
+<nd ref="9413868804"/>
+<nd ref="9413868807"/>
+<nd ref="9413868806"/>
+<nd ref="9219041763"/>
+<nd ref="9219041760"/>
+<nd ref="9219044443"/>
+<nd ref="9219011783"/>
+<nd ref="9219011784"/>
+<nd ref="9219041746"/>
+<nd ref="9219041747"/>
+<nd ref="9219041753"/>
+<nd ref="9219041752"/>
+<nd ref="9219041751"/>
+<nd ref="9886846184"/>
+<nd ref="9219087656"/>
+<nd ref="9219087659"/>
+<nd ref="3137225205"/>
+<nd ref="2606086488"/>
+<nd ref="9219087658"/>
+<nd ref="2844492591"/>
+</way>
+</modify>
+<create>
+<way id="1078437164" version="1" timestamp="2022-07-14T09:27:54Z" uid="12652421" user="Tom Ameye" changeset="123599453">
+<bbox minlat="50.9423837" minlon="4.394932" maxlat="50.9449214" maxlon="4.397796700000001"/>
+<tag k="landuse" v="meadow"/>
+<nd ref="620852841"/>
+<nd ref="620852840"/>
+<nd ref="620852839"/>
+<nd ref="9886846177"/>
+<nd ref="9886846176"/>
+<nd ref="8905067259"/>
+<nd ref="9886846181"/>
+<nd ref="9886846178"/>
+<nd ref="9886846179"/>
+<nd ref="9886846180"/>
+<nd ref="620852841"/>
+</way>
+</create>
+</osmChange>

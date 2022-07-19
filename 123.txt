@@ -1,0 +1,724 @@
+yarrrml2.yaml --serialization turtle
+@prefix : <http://mapping.example.com/> .
+@prefix d2rq: <http://www.wiwiss.fu-berlin.de/suhl/bizer/D2RQ/0.1#> .
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix e: <http://myontology.com/> .
+@prefix ex: <http://www.example.com/changesets/> .
+@prefix fnml: <http://semweb.mmlab.be/ns/fnml#> .
+@prefix fno: <https://w3id.org/function/ontology#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix grel: <http://users.ugent.be/~bjdmeest/function/grel.ttl#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+ex:123516598 ex:closedAt "1657629276000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657625289000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123516598;
+  ex:hasUID 3136833;
+  ex:isOpen false;
+  ex:maxLat "53.544282"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "10.035346"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "53.543478"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "10.032849"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 2;
+  ex:tagKey "StreetComplete:quest_type", "comment", "created_by", "locale", "source";
+  ex:tagValue "Add bridge structures", "AddBridgeStructure", "StreetComplete 45.0",
+    "en-US", "survey";
+  ex:userName "laria" .
+
+ex:123517065 ex:closedAt "1657629283000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657625833000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123517065;
+  ex:hasUID 34867;
+  ex:isOpen false;
+  ex:maxLat "51.953802"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "-2.062361"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "51.953802"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "-2.062361"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "StreetComplete:quest_type", "comment", "created_by", "locale", "source";
+  ex:tagValue "Add whether there is a crossing", "AddCrossing", "StreetComplete 45.0",
+    "en-US", "survey";
+  ex:userName "SammyTheSnake" .
+
+ex:123517072 ex:closedAt "1657629284000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657625841000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123517072;
+  ex:hasUID 34867;
+  ex:isOpen false;
+  ex:maxLat "51.953802"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "-2.062361"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "51.953802"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "-2.062361"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "StreetComplete:quest_type", "comment", "created_by", "locale", "source";
+  ex:tagValue "Add crossing type", "AddCrossingType", "StreetComplete 45.0", "en-US",
+    "survey";
+  ex:userName "SammyTheSnake" .
+
+ex:123517075 ex:closedAt "1657629284000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657625846000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123517075;
+  ex:hasUID 34867;
+  ex:isOpen false;
+  ex:maxLat "51.953802"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "-2.062361"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "51.953802"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "-2.062361"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "StreetComplete:quest_type", "comment", "created_by", "locale", "source";
+  ex:tagValue "Add whether pedestrian crossing has an island", "AddCrossingIsland",
+    "StreetComplete 45.0", "en-US", "survey";
+  ex:userName "SammyTheSnake" .
+
+ex:123517079 ex:closedAt "1657629287000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657625848000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123517079;
+  ex:hasUID 34867;
+  ex:isOpen false;
+  ex:maxLat "51.953802"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "-2.062361"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "51.953802"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "-2.062361"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "StreetComplete:quest_type", "comment", "created_by", "locale", "source";
+  ex:tagValue "Add tactile pavings on crosswalks", "AddTactilePavingCrosswalk", "StreetComplete 45.0",
+    "en-US", "survey";
+  ex:userName "SammyTheSnake" .
+
+ex:123517084 ex:closedAt "1657629291000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657625852000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123517084;
+  ex:hasUID 34867;
+  ex:isOpen false;
+  ex:maxLat "51.954336"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "-2.062206"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "51.953306"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "-2.062727"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "StreetComplete:quest_type", "comment", "created_by", "locale", "source";
+  ex:tagValue "Add whether way is lit", "AddWayLit", "StreetComplete 45.0", "en-US",
+    "survey";
+  ex:userName "SammyTheSnake" .
+
+ex:123519814 ex:closedAt "1657629250000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629250000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519814;
+  ex:hasUID 10370720;
+  ex:isOpen false;
+  ex:maxLat "51.442954"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "-2.585073"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "51.442922"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "-2.585141"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 11;
+  ex:tagKey "changesets_count", "comment", "created_by", "host", "imagery_used", "locale",
+    "source";
+  ex:tagValue "17603", "Add shelter", "Bing Maps Aerial;OSMUK Cadastral Parcels", "RapiD 1.1.9",
+    "en-GB", "https://mapwith.ai/rapid", "survey;aerial imagery";
+  ex:userName "okwithmydecay" .
+
+ex:123519815 ex:closedAt "1657629256000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629251000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519815;
+  ex:hasUID 1962399;
+  ex:isOpen false;
+  ex:maxLat "-25.308847"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "45.196433"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "-25.353849"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "45.160479"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 765;
+  ex:tagKey "comment", "created_by", "hashtags", "source";
+  ex:tagValue "#hotosm-project-12734 #missingmaps #msf #SouthofMadagascarDrought #Madagascar #301·#304·#310·#325·#336·#356·#390·#401·#1161 checked",
+    "#hotosm-project-12734;#missingmaps;#msf;#SouthofMadagascarDrought;#Madagascar", "JOSM/1.5 (18463 en)",
+    "Maxar Premium Imagery; Maxar-Premium";
+  ex:userName "Frans S" .
+
+ex:123519816 ex:closedAt "1657629253000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629252000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519816;
+  ex:hasUID 11490635;
+  ex:isOpen false;
+  ex:maxLat "38.459141"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "-77.468148"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "38.455146"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "-77.473946"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 463;
+  ex:tagKey "changesets_count", "comment", "created_by", "host", "imagery_used", "locale";
+  ex:tagValue "644", "Bing Maps Aerial", "RapiD 1.1.9", "added buildings", "en-US",
+    "https://mapwith.ai/rapid";
+  ex:userName "nrrdio" .
+
+ex:123519817 ex:closedAt "1657629253000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629252000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519817;
+  ex:hasUID 13565;
+  ex:isOpen false;
+  ex:maxLat "52.131071"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "11.684058"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "52.130941"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "11.682764"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "changesets_count", "comment", "created_by", "host", "imagery_used", "locale";
+  ex:tagValue "9110", "de", "fix surface", "https://www.openstreetmap.org/edit", "iD 2.21.1",
+    "© GeoBasis-DE/LVermGeo LSA, ATKIS_BU";
+  ex:userName "hadhuey" .
+
+ex:123519818 ex:closedAt "1657629257000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629256000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519818;
+  ex:hasUID 6518907;
+  ex:isOpen false;
+  ex:maxLat "25.165985"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "91.141153"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "25.131099"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "91.104082"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 211;
+  ex:tagKey "changesets_count", "comment", "created_by", "hashtags", "host", "imagery_used",
+    "locale", "resolved:crossing_ways:building-highway", "resolved:crossing_ways:highway-waterway",
+    "warnings:disconnected_way:highway";
+  ex:tagValue "#hotosm-project-12820 #OSMBD #Bangladesh #BangladeshFloodResponse2022",
+    "#hotosm-project-12820;#OSMBD;#Bangladesh;#BangladeshFloodResponse2022", "1", "3",
+    "3823", "4", "Maxar Premium Imagery;.gpx data file;Mapbox Satellite", "https://tasks.hotosm.org/projects/12820/map/",
+    "iD 2.20.2", "nl";
+  ex:userName "Lonneke76" .
+
+ex:123519819 ex:closedAt "1657629259000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629258000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519819;
+  ex:hasUID 15173826;
+  ex:isOpen false;
+  ex:maxLat "55.593112"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "13.007448"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "55.593112"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "13.007448"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "bundle_id", "comment", "created_by";
+  ex:tagValue "Organic Maps android 2022.06.29-3-FDroid", "Updated a fast_food", "app.organicmaps";
+  ex:userName "Calle12345" .
+
+ex:123519820 ex:closedAt "1657629260000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629259000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519820;
+  ex:hasUID 12195744;
+  ex:isOpen false;
+  ex:maxLat "33.585266"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "-117.733176"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "33.584877"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "-117.733873"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "changesets_count", "comment", "created_by", "host", "imagery_used", "locale";
+  ex:tagValue "1", "Added lanes count according to proprietary street-level imagery.",
+    "Bing Maps Aerial", "en-US", "https://lyft.com", "iD 2.21.0";
+  ex:userName "pmarkina_lyft" .
+
+ex:123519821 ex:closedAt "0"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629259000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519821;
+  ex:hasUID 14617702;
+  ex:isOpen true;
+  ex:maxLat "45.538146"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "12.630557"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "45.538010"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "12.630297"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "StreetComplete:quest_type", "comment", "created_by", "locale", "source";
+  ex:tagValue "Add building types", "AddBuildingType", "StreetComplete 45.0", "hr-HR",
+    "survey";
+  ex:userName "Đuro Jiří" .
+
+ex:123519822 ex:closedAt "1657629264000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629261000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519822;
+  ex:hasUID 66391;
+  ex:isOpen false;
+  ex:maxLat "53.056866"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "14.302783"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "52.982330"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "14.127208"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 33;
+  ex:tagKey "comment", "created_by", "source";
+  ex:tagValue "Esri Luftbild", "JOSM/1.5 (18463 de)", "seamark";
+  ex:userName "geozeisig" .
+
+ex:123519823 ex:closedAt "1657629263000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629262000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519823;
+  ex:hasUID 6686188;
+  ex:isOpen false;
+  ex:maxLat "51.929455"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "4.270337"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "51.929335"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "4.269746"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 3;
+  ex:tagKey "comment", "created_by", "source";
+  ex:tagValue "JOSM/1.5 (18513 nl)", "OSM opmerking, aerial image", "bollard geplaatst, access tags toegevoegd";
+  ex:userName "Leo Slager" .
+
+ex:123519824 ex:closedAt "1657629268000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629264000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519824;
+  ex:hasUID 15750295;
+  ex:isOpen false;
+  ex:maxLat "6.982565"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "4.551884"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "6.911945"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "4.371600"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 68;
+  ex:tagKey "comment", "created_by", "hashtags", "source";
+  ex:tagValue "#adt", "JOSM/1.5 (18427 en)", "Maxar Premium Imagery", "Modified the alignment of unclassified way near Ijebu East #adt";
+  ex:userName "KulundaSteppe" .
+
+ex:123519825 ex:closedAt "1657629268000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629265000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519825;
+  ex:hasUID 11187605;
+  ex:isOpen false;
+  ex:maxLat "7.935742"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "-67.393036"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "7.857988"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "-67.535082"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 152;
+  ex:tagKey "comment", "created_by", "hashtags", "source";
+  ex:tagValue "#adt", "JOSM/1.5 (18427 en)", "Maxar Premium Imagery", "Modified the alignment of the riverbank #adt";
+  ex:userName "MountStanley" .
+
+ex:123519826 ex:closedAt "1657629268000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629267000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519826;
+  ex:hasUID 3361793;
+  ex:isOpen false;
+  ex:maxLat "47.270859"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "15.698167"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "47.270859"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "15.698167"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "changesets_count", "comment", "created_by", "host", "imagery_used", "locale";
+  ex:tagValue "199", "basemap.at Orthofoto", "de", "https://www.openstreetmap.org/edit",
+    "iD 2.21.1", "Öffnungszeiten aktualisiert und Link ausgebessert";
+  ex:userName "Evelyn Götz" .
+
+ex:123519827 ex:closedAt "1657629282000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629268000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519827;
+  ex:hasUID 362997;
+  ex:isOpen false;
+  ex:maxLat "45.355666"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "5.527888"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "45.324734"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "5.494971"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 212;
+  ex:tagKey "comment", "created_by", "source";
+  ex:tagValue "JOSM/1.5 (18118 fr)", "Ligne RIV01", "Ortho HR 2021; local Knowlege";
+  ex:userName "Virgile1994" .
+
+ex:123519828 ex:closedAt "1657629274000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629271000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519828;
+  ex:hasUID 74746;
+  ex:isOpen false;
+  ex:maxLat "54.945379"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "-1.626593"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "54.944149"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "-1.628457"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 121;
+  ex:tagKey "comment", "created_by", "hashtags", "source";
+  ex:tagValue "#ukqp;#maproulette", "Add playground #ukqp #maproulette", "Bing; OS Open Greenspace",
+    "JOSM/1.5 (18513 de)";
+  ex:userName "vogelfreier" .
+
+ex:123519829 ex:closedAt "0"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629273000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519829;
+  ex:hasUID 14617702;
+  ex:isOpen true;
+  ex:maxLat "45.538190"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "12.630557"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "45.538010"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "12.629392"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 3;
+  ex:tagKey "StreetComplete:quest_type", "comment", "created_by", "locale", "source";
+  ex:tagValue "Add building and roof levels", "AddBuildingLevels", "StreetComplete 45.0",
+    "hr-HR", "survey";
+  ex:userName "Đuro Jiří" .
+
+ex:123519830 ex:closedAt "1657629277000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629276000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519830;
+  ex:hasUID 507417;
+  ex:isOpen false;
+  ex:maxLat "46.118554"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "6.035224"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "46.118148"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "6.034620"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "comment", "created_by", "source";
+  ex:tagValue "Ajout tags chateaux de Viry", "JOSM/1.5 (18463 fr)", "Ortho HR 2020; Cadastre";
+  ex:userName "tartiflex" .
+
+ex:123519831 ex:closedAt "0"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629276000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519831;
+  ex:hasUID 16518310;
+  ex:isOpen true;
+  ex:maxLat "50.918769"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "13.335300"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "50.918640"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "13.335052"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "StreetComplete:quest_type", "comment", "created_by", "locale", "source";
+  ex:tagValue "Add building and roof levels", "AddBuildingLevels", "StreetComplete 45.0",
+    "de-DE", "survey";
+  ex:userName "Sonnenschirm_" .
+
+ex:123519832 ex:closedAt "1657629277000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629277000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519832;
+  ex:hasUID 12479290;
+  ex:isOpen false;
+  ex:maxLat "33.632755"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "-84.465275"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "33.630831"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "-84.466652"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 6;
+  ex:tagKey "changesets_count", "comment", "created_by", "host", "imagery_used", "locale";
+  ex:tagValue "1", "Added retail area according to proprietary streetlevel imagery.",
+    "Bing Maps Aerial", "https://lyft.com", "iD 2.21.0", "ru";
+  ex:userName "akuksouski_lyft" .
+
+ex:123519833 ex:closedAt "0"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629277000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519833;
+  ex:hasUID 2043311;
+  ex:isOpen true;
+  ex:maxLat "61.503346"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "23.741393"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "61.502454"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "23.737967"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "StreetComplete:quest_type", "comment", "created_by", "locale", "source";
+  ex:tagValue "Add whether there is a parking fee", "AddParkingFee", "StreetComplete 45.0",
+    "fi-FI", "survey";
+  ex:userName "aufgenau" .
+
+ex:123519834 ex:closedAt "0"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629277000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519834;
+  ex:hasUID 14617702;
+  ex:isOpen true;
+  ex:maxLat "45.538185"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "12.630557"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "45.538010"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "12.629836"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 2;
+  ex:tagKey "StreetComplete:quest_type", "comment", "created_by", "locale", "source";
+  ex:tagValue "Add roof shapes", "AddRoofShape", "StreetComplete 45.0", "hr-HR", "survey";
+  ex:userName "Đuro Jiří" .
+
+ex:123519835 ex:closedAt "0"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629278000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519835;
+  ex:hasUID 16518310;
+  ex:isOpen true;
+  ex:maxLat "50.918665"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "13.335330"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "50.918536"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "13.335083"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "StreetComplete:quest_type", "comment", "created_by", "locale", "source";
+  ex:tagValue "Add building and roof levels", "AddBuildingLevels", "StreetComplete 45.0",
+    "de-DE", "survey";
+  ex:userName "Sonnenschirm_" .
+
+ex:123519836 ex:closedAt "1657629281000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629278000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519836;
+  ex:hasUID 10529618;
+  ex:isOpen false;
+  ex:maxLat "7.942672"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "-68.645389"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "7.888325"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "-68.890146"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 13;
+  ex:tagKey "comment", "created_by", "hashtags", "source";
+  ex:tagValue "#adt", "JOSM/1.5 (18427 en)", "Maxar Premium Imagery", "Modified the alignment of riverbank #adt";
+  ex:userName "IsleofSkye9" .
+
+ex:123519837 ex:closedAt "1657629280000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629279000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519837;
+  ex:hasUID 13713186;
+  ex:isOpen false;
+  ex:maxLat "35.336738"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "-81.894400"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "35.332780"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "-81.899325"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 33;
+  ex:tagKey "changesets_count", "comment", "created_by", "hashtags", "host", "imagery_used",
+    "locale", "source";
+  ex:tagValue "#amap", "2995", ";streetlevel imagery;streetside;mapillary;kartaview",
+    "Added Parking Aisle. #amap", "Esri World Imagery;Bing Streetside;Mapillary Images;KartaView Images",
+    "en", "https://www.openstreetmap.org/edit", "iD 2.21.1";
+  ex:userName "saikkomm" .
+
+ex:123519838 ex:closedAt "1657629285000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629281000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519838;
+  ex:hasUID 15750334;
+  ex:isOpen false;
+  ex:maxLat "6.236541"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "-75.200607"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "6.224842"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "-75.208449"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 19;
+  ex:tagKey "comment", "created_by", "hashtags", "source";
+  ex:tagValue "#adt", "Aligned residential ways near Los Naranjos #adt", "Bing Aerial Imagery",
+    "JOSM/1.5 (18427 en)";
+  ex:userName "LakeKutcharo" .
+
+ex:123519839 ex:closedAt "0"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629282000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519839;
+  ex:hasUID 2043311;
+  ex:isOpen true;
+  ex:maxLat "61.502536"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "23.739521"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "61.502433"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "23.739460"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "StreetComplete:quest_type", "comment", "created_by", "locale", "source";
+  ex:tagValue "Add path surfaces", "AddPathSurface", "StreetComplete 45.0", "fi-FI",
+    "survey";
+  ex:userName "aufgenau" .
+
+ex:123519840 ex:closedAt "1657629284000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629283000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519840;
+  ex:hasUID 10252542;
+  ex:isOpen false;
+  ex:maxLat "42.491989"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "-90.731038"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "42.491054"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "-90.732160"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 5;
+  ex:tagKey "changesets_count", "comment", "created_by", "hashtags", "host", "imagery_used",
+    "locale";
+  ex:tagValue "#amap", "18940", "Added Direction #amap", "Esri World Imagery (Clarity) Beta;Bing Streetside;Mapillary Images;KartaView Images",
+    "en", "https://www.openstreetmap.org/edit", "iD 2.21.1";
+  ex:userName "karmsudi" .
+
+ex:123519841 ex:closedAt "1657629285000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629284000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519841;
+  ex:hasUID 188930;
+  ex:isOpen false;
+  ex:maxLat "46.128533"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "3.426828"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "46.128533"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "3.426828"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "comment", "created_by", "imagery_used", "locale", "source";
+  ex:tagValue "BDOrtho IGN", "FR03,VICHY : actualisation survey", "Go Map!! 3.1.4",
+    "fr", "survey";
+  ex:userName "JLZIMMERMANN" .
+
+ex:123519842 ex:closedAt "0"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629285000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519842;
+  ex:hasUID 2043311;
+  ex:isOpen true;
+  ex:maxLat "61.502536"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "23.739521"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "61.502433"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "23.739460"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "StreetComplete:quest_type", "comment", "created_by", "locale", "source";
+  ex:tagValue "Add whether way is lit", "AddWayLit", "StreetComplete 45.0", "fi-FI",
+    "survey";
+  ex:userName "aufgenau" .
+
+ex:123519843 ex:closedAt "1657629286000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629286000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519843;
+  ex:hasUID 13822707;
+  ex:isOpen false;
+  ex:maxLat "62.468798"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "14.334066"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "62.457399"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "14.290269"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 31;
+  ex:tagKey "changesets_count", "comment", "created_by", "host", "imagery_used", "locale";
+  ex:tagValue "388", "Bing Maps Aerial", "de", "https://www.openstreetmap.org/edit",
+    "iD 2.21.1", "landuse";
+  ex:userName "deret" .
+
+ex:123519844 ex:closedAt "1657629291000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629290000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519844;
+  ex:hasUID 1510456;
+  ex:isOpen false;
+  ex:maxLat "46.776911"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "14.905649"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "46.742536"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "14.821473"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 10;
+  ex:tagKey "changesets_count", "comment", "created_by", "host", "ideditor:walkthrough_progress",
+    "ideditor:walkthrough_started", "imagery_used", "locale", "resolved:close_nodes:vertices",
+    "resolved:outdated_tags:noncanonical_brand";
+  ex:tagValue "2", "5", "76", "basemap.at Orthofoto", "en", "https://www.openstreetmap.org/edit",
+    "iD 2.21.1", "typo in tags and small corrections", "welcome;startEditing", "yes";
+  ex:userName "SpinNE555" .
+
+ex:123519845 ex:closedAt "1657629291000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629290000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519845;
+  ex:hasUID 14876910;
+  ex:isOpen false;
+  ex:maxLat "52.153058"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "5.374166"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "52.153058"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "5.374166"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "comment", "created_by";
+  ex:tagValue "Edit Artwork.", "OsmAnd~ 4.1.11";
+  ex:userName "fwsmit" .
+
+ex:123519846 ex:closedAt "1657629296000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629292000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519846;
+  ex:hasUID 902727;
+  ex:isOpen false;
+  ex:maxLat "35.711539"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "138.646187"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "35.596401"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "138.568325"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1374;
+  ex:tagKey "changesets_count", "comment", "created_by", "host", "imagery_used", "locale",
+    "resolved:disconnected_way:highway";
+  ex:tagValue "1", "4358", "Japan GSI airphoto Imagery;Maxar Premium Imagery;Japan GSI seamlessphoto Imagery",
+    "en", "https://www.openstreetmap.org/edit", "iD 2.21.1", "repair of cycleway and surrounding bridges after cycling & driving survey.";
+  ex:userName "javbw" .
+
+ex:123519847 ex:closedAt "1657629293000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629292000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519847;
+  ex:hasUID 1633343;
+  ex:isOpen false;
+  ex:maxLat "52.388971"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "9.856312"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "52.388797"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "9.855794"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 3;
+  ex:tagKey "comment", "created_by", "source";
+  ex:tagValue "Bücherschrank ergänzt", "JOSM/1.5 (18463 en)", "knowledge; homepage";
+  ex:userName "Nadjita" .
+
+ex:123519848 ex:closedAt "1657629298000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629296000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519848;
+  ex:hasUID 15204646;
+  ex:isOpen false;
+  ex:maxLat "55.309783"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "-1.632062"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "55.309781"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "-1.632090"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "comment", "created_by", "hashtags", "source";
+  ex:tagValue "#tomtom", "Bing Aerial Imagery", "JOSM/1.5 (18463 en)", "Removed the sharp edge for building polygon #tomtom";
+  ex:userName "Chap_oga" .
+
+ex:123519849 ex:closedAt "1657629298000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629296000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519849;
+  ex:hasUID 11630507;
+  ex:isOpen false;
+  ex:maxLat "10.167616"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "77.103876"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "10.167616"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "77.103876"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1;
+  ex:tagKey "changesets_count", "comment", "created_by", "host", "imagery_used", "locale",
+    "warnings:outdated_tags:noncanonical_brand";
+  ex:tagValue "1", "6581", "Maxar Premium Imagery;.gpx data file", "Ration Shop is added",
+    "en", "https://www.openstreetmap.org/edit", "iD 2.21.1";
+  ex:userName "d4deepa" .
+
+ex:123519850 ex:closedAt "1657629301000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629300000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519850;
+  ex:hasUID 5258545;
+  ex:isOpen false;
+  ex:maxLat "60.305712"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "24.408303"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "60.283628"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "24.269126"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 25;
+  ex:tagKey "changesets_count", "comment", "created_by", "host", "imagery_used", "locale",
+    "resolved:almost_junction:highway-highway", "source";
+  ex:tagValue "1", "4940", "Bing Maps Aerial", "Ensure name + name:fi match each other, route 110, Lohja & Vihti",
+    "en", "https://www.openstreetmap.org/edit", "iD 2.21.1", "local knowledge";
+  ex:userName "j numminen" .
+
+ex:123519851 ex:closedAt "1657629302000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629301000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519851;
+  ex:hasUID 11905428;
+  ex:isOpen false;
+  ex:maxLat "39.612851"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "-104.704035"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "39.607985"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "-104.711800"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 20;
+  ex:tagKey "changesets_count", "comment", "created_by", "host", "imagery_used", "locale";
+  ex:tagValue "1", "Added residential road,name tag according to proprietary street-level and aerial imageries",
+    "Near Map", "en-US", "https://lyft.com", "iD 2.21.0";
+  ex:userName "amakarevich_lyft" .
+
+ex:123519852 ex:closedAt "1657629304000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629303000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519852;
+  ex:hasUID 12363857;
+  ex:isOpen false;
+  ex:maxLat "52.872083"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "-1.633825"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "52.870547"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "-1.640326"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 2;
+  ex:tagKey "comment", "created_by", "source";
+  ex:tagValue "JOSM/1.5 (18463 en_GB)", "add new bike parking in hilton", "survey";
+  ex:userName "ntzm" .
+
+ex:123519853 ex:closedAt "1657629308000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629305000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519853;
+  ex:hasUID 6665480;
+  ex:isOpen false;
+  ex:maxLat "10.066240"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "9.118591"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "10.055607"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "9.107720"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 1925;
+  ex:tagKey "comment", "created_by", "hashtags", "source";
+  ex:tagValue "#hotosm-project-12934 #Imagery4socialgood #Nigeria    #uniquemappersnetwork #uniquemappersnetwork2022 #uniquemappersteam #leadersboard",
+    "#hotosm-project-12934;#Imagery4socialgood;#Nigeria;#uniquemappersnetwork;#uniquemappersnetwork2022;#uniquemappersteam;#leadersboard",
+    "Bing", "JOSM/1.5 (18387 en)";
+  ex:userName "love4all" .
+
+ex:123519854 ex:closedAt "1657629309000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:createdAt "1657629308000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  ex:hasID 123519854;
+  ex:hasUID 5035183;
+  ex:isOpen false;
+  ex:maxLat "51.625749"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:maxLon "13.714700"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLat "51.624876"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:minLon "13.709110"^^<http://www.w3.org/2001/XMLSchema#float>;
+  ex:numberOfChanges 6;
+  ex:tagKey "changesets_count", "comment", "created_by", "host", "imagery_used", "locale";
+  ex:tagValue "3642", "Bing Maps Aerial", "Holsteiner Straße segmentiert, da unterschiedliche Eigenschaften der Abschnitte",
+    "de", "https://www.openstreetmap.org/edit", "iD 2.21.1";
+  ex:userName "Almucheck Almucheck" .

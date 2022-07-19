@@ -1,0 +1,85 @@
+prefixes:
+  ex: http://www.example.com/changesets/
+  e: http://myontology.com/
+  dbo: http://dbpedia.org/ontology/
+  grel: http://users.ugent.be/~bjdmeest/function/grel.ttl#
+
+mappings:
+  person:
+    sources:
+      - ['data.json~jsonpath', '$.data[*]']
+    s: ex:$(id)
+    po: 
+      - p: ex:isType
+        o: $(type)
+
+      - p: ex:hasID
+        o: 
+           value: $(id)
+           datatype: xsd:integer
+      
+      - p: ex:createdAt
+        o: 
+           value: $(created_at)
+           datatype: xsd:dateTime
+        
+      - p: ex:closedAt
+        o: 
+           value: $(closed_at)
+           datatype: xsd:dateTime
+     
+      - p: ex:isOpen
+        o: 
+           value: $(open)
+           datatype: xsd:boolean
+        
+      - p: ex:numberOfChanges
+        o: 
+           value: $(num_changes)
+           datatype: xsd:integer
+           
+      - p: ex:userName
+        o: 
+           value: $(user)
+           datatype: xsd:String
+        
+      - p: ex:hasUID
+        o: 
+           value: $(uid)
+           datatype: xsd:integer
+      
+      - p: ex:minLon
+        o: 
+           value: $(min_lon)
+           datatype: xsd:float
+        
+      - p: ex:minLat
+        o: 
+           value: $(min_lat)
+           datatype: xsd:float
+
+        
+      - p: ex:maxLon
+        o: 
+           value: $(max_lon)
+           datatype: xsd:float   
+           
+      - p: ex:maxLat
+        o: 
+           value: $(max_lat)
+           datatype: xsd:float     
+           
+      - p: ex:$(tagkey)
+        o: 
+           value: $(tagvalue)
+           datatype: xsd:String
+        
+
+     
+
+     
+         
+       
+    
+        
+        
